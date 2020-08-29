@@ -1,24 +1,9 @@
-# vue-router-hw-3
+# VUE ROUTER
 
-## Project setup
-```
-npm install
-```
+### Створити сайт візитку (Текст не важливий, дизайн також)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Має бути 3 компоненти (Home, Contacts, MyProjects);
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Компонент Home має мати фотку, картинку і паро параграфів з текстом.. Компонент Contacts має мати поле з контакнами, можете також вставити гугл мепс за допомогою ай фрейм Компонент MyProjects має мати ваш тудуліст)) (поки що)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Потрібно створити масив роутів; підключити router-view, а також не забуваєм в main.js заюзати роутер. Аппка має працювати без перезагрузки сторінок.
